@@ -1,0 +1,10 @@
+2024-08-26T12:31:55.880-03:00  INFO 11364 --- [Digio] [restartedMain] com.teste.digio.DemoApplication          : Starting DemoApplication using Java 21.0.4 with PID 11364 (C:\Users\mietl\OneDrive\Área de Trabalho\des\demo (2)\demo\target\classes started by mietl in C:\Users\mietl\OneDrive\Área de Trabalho\des\demo (2)\demo)
+2024-08-26T12:31:55.881-03:00  INFO 11364 --- [Digio] [restartedMain] com.teste.digio.DemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-08-26T12:31:56.147-03:00  INFO 11364 --- [Digio] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-08-26T12:31:56.148-03:00  INFO 11364 --- [Digio] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-26T12:31:56.148-03:00  INFO 11364 --- [Digio] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-08-26T12:31:56.166-03:00  INFO 11364 --- [Digio] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-26T12:31:56.166-03:00  INFO 11364 --- [Digio] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 281 ms
+2024-08-26T12:31:56.253-03:00  INFO 11364 --- [Digio] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-08-26T12:31:56.261-03:00  INFO 11364 --- [Digio] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-08-26T12:31:56.264-03:00  INFO 11364 --- [Digio] [restartedMain] com.teste.digio.DemoApplication          : Started DemoApplication in 0.441 seconds (process running for 889.025)
